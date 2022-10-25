@@ -1,0 +1,21 @@
+Questão 1: Faz uso de arquitetura single-thread / Executar uma requisição de cada vez no Servidor
+
+Questão 2 : set site:acessos 10 nx 
+
+Questão 3: lpop site:ultimos_acessos
+
+Questão 4: sunion site:atualizaca   site:feed site:perfil
+
+Questão 5: zadd site site:rank_views views:qtd 0 -1
+
+Questão 6: hincrby site:views qtd -10 
+
+Questão 7: As mensagens são enviadas diretamente para um assinante / Quem está publicando desconhece os assinantes
+
+Questão 8: CONFIG SET maxmemory 2mb
+
+Questão 9: expire  site:views_hora 3600
+
+Questão 10: O Armazenamento Chave/Valor, sempre é mapeado como String/String
+
+
