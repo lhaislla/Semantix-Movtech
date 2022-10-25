@@ -1,0 +1,21 @@
+Questão 1- Plataforma de stream 
+
+Questão 2- Apache Kafka/Apache Zookeeper
+
+Questão 3- Os índices são responsáveis pelo armazenamento de stream de registros
+
+Questão 4- Visualizar o consumo de CPU e RAM dos serviços/Visualizar os logs dos serviços/Configurar e carregar um connector
+
+Questão 5- Diminuir o número de réplicas/Diminuir o número de réplicas de sincronização
+
+Questão 6- Para todos os consumidores do grupo app, resetar o deslocamento e iniciar o offset em 5 do tópico msg 
+
+Questão 7- Ksql> create stream strteste (id int, empresa varchar) with (Kafka_topic='teste', value_format='json');
+
+Questão 8-Esquemas podem ser atualizados/Comunicação através de API REST/Consumidores recebem os dados pelo Schema Registry/Produtores enviam dados por Schema ID para o Kafka
+
+Questão 9- Sink/Source
+
+Questão 10-Um dos custos é formado pela taxa de transferência de dados/Um dos custos é formado pelo armazenamento do Kafka/Pode ser multi-cloud
+
+resultado: 
